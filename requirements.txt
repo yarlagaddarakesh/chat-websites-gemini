@@ -1,0 +1,6 @@
+ streamlit 
+ langchain 
+ langchain_google_genai
+ beautifulsoup4 
+ python-dotenv==1.0.1
+ faiss-cpu
